@@ -168,3 +168,4 @@ function deleteProduct(id, e) {
       });
   }
 }
+// changes
